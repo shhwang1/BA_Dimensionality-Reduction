@@ -8,7 +8,7 @@ In recent years, data scientists have been increasingly dealing with data that h
    
 The table of contents is as follows.
 ___
-### Supervised Methods [Link](https://github.com/shhwang1/1_Dimensionality-Reduction/tree/main/Supervised_Method)
+### Supervised Methods [Link](https://github.com/shhwang1/BA_Dimensionality-Reduction/tree/main/Supervised_Methods)
 
 #### 1. Forward Selection   
    
@@ -18,7 +18,7 @@ ___
    
 #### 4. Genetic Algorithm   
 ___
-### Unsupervised Methods [Link](https://github.com/shhwang1/1_Dimensionality-Reduction/tree/main/Unsupervised_Methods)
+### Unsupervised Methods [Link](https://github.com/shhwang1/BA_Dimensionality-Reduction/tree/main/Unsupervised_Methods)
 #### 1. Principal Component Analysis (PCA)   
    
 #### 2. Multi-Dimensional Scaling (MDS)   
