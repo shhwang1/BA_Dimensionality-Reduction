@@ -57,4 +57,3 @@ data = pd.read_csv(args.data_path + args.data_type)
 X_data = data.iloc[:, :-1]
 y_data = data.iloc[:, -1]
 ```
-<p align="center"><img src="https://user-images.githubusercontent.com/115224653/198869856-10cec67e-30d9-40bf-8e28-c0b98b13f123.png"></p>
